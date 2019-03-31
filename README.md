@@ -8,3 +8,5 @@ European Voluntary Services is an amazing opportunity to volunteer abroad. Unfor
 1. It scrapes https://europa.eu/youth/volunteering/project_en pages for available projects
 2. Creates text file with the results you can use to process as you wish
 
+# Requirements
+You will need Python 3.6 or newer to run this script.
